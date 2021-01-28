@@ -1,6 +1,6 @@
 # ApyxEngine-Flask-Prototype-Demo
 
-Short (1 min) screenrecording of the proposed interface of the flask app I've written to handle company-wide GIS requests, here still in its infancy.
+Short (1 min) screenrecording of the proposed interface of the flask app I wrote to handle company-wide GIS requests, here still in its infancy.
 
 The demo shows several front end features, and illustrates backend interactions with a text configuration file.
 
